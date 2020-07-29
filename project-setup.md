@@ -39,3 +39,14 @@
 </oL>
 
 Learn More Here => <a href="https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/lecture/5940926?start=0#overview">Vue Js 2 - The Complete Guide (incl. Vue Router & Vuex)</a>
+
+- <a href="https://vuejs.org/v2/guide/installation.html">Vue Documentation</a>
+- <a href="https://www.vuemastery.com/courses-path/beginner/">Vue Mastery</a>
+- <a href="https://vuetifyjs.com/en/">Vuetify</a>
+
+<br/>
+
+### Tools
+
+- <a href="https://www.npmjs.com/">NPM Package</a>
+- <a href=" https://jsfiddle.net/">JSFiddle</a>
