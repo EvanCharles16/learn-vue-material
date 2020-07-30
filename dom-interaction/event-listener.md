@@ -3,7 +3,7 @@
 HTML
 
 ```
-<div id="app>
+<div id="app">
     <button v-on:click="increase">Click me</button>
     <p>{{ counter }}</p>
 </div>
@@ -44,7 +44,7 @@ v-on:click , we also can use any DOM event existing for the button , like mouse 
 HTML
 
 ```
-<div id="app>
+<div id="app">
     <p v-on:mousemove="updateCoordinate">Coordinates : {{ x }} / {{ y }}</p>
 </div>
 ```
