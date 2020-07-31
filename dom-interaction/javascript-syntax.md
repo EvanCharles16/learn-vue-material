@@ -187,3 +187,4 @@ Example : `v-on:click === @click` // Event Handling
 - v-bind === :
 
 Example : `v-bind:href === :href`
+`v-bind:class === :class`
