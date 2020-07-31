@@ -50,3 +50,7 @@ Learn More Here => <a href="https://www.udemy.com/course/vuejs-2-the-complete-gu
 
 - <a href="https://www.npmjs.com/">NPM Package</a>
 - <a href=" https://jsfiddle.net/">JSFiddle</a>
+
+### Vue CDN
+
+`https://unpkg.com/vue/dist/vue.js`
