@@ -53,4 +53,4 @@ Learn More Here => <a href="https://www.udemy.com/course/vuejs-2-the-complete-gu
 
 ### Vue CDN
 
-`https://unpkg.com/vue/dist/vue.js`
+`<script src="https://unpkg.com/vue/dist/vue.js"></script>`
