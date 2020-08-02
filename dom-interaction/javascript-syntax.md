@@ -79,6 +79,10 @@ Data Binding - We are able to use
 
 ---
 
+Check this out => https://jsfiddle.net/smax/ut0tsbcu/
+
+---
+
 ### Reacting to changes with Computed Properties
 
 everything stored in computed can be used just like you use a property in the data object.
@@ -188,3 +192,9 @@ Example : `v-on:click === @click` // Event Handling
 
 Example : `v-bind:href === :href`
 `v-bind:class === :class`
+
+---
+
+Check this out => https://jsfiddle.net/smax/yLjqxmw0/
+
+---

@@ -203,3 +203,7 @@ Output
 http://vuejs.org/v2/guide/events.html#Key-Modifiers
 
 ---
+
+Check this out => https://jsfiddle.net/smax/7zdak05g/
+
+---

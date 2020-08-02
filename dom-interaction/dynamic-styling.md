@@ -180,6 +180,10 @@ Key is a class , value is a condition
 
 ---
 
+Check this out => https://jsfiddle.net/smax/gowg40ym/
+
+---
+
 ### Setting Styles Dynamically (Without CSS Classes)
 
 HTML
@@ -244,6 +248,10 @@ new Vue({
 Output <br/>
 
 We can changes the color and width using the two ways binding , :style
+
+---
+
+Check this out => https://jsfiddle.net/smax/3rvdLq5y/
 
 ---
 

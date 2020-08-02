@@ -200,3 +200,7 @@ But if we add v-html `<p v-html> {{ finishedLink }} </p>`, this will output [Goo
 v-html => allows pass the name of the property here which holds the html code.
 
 ---
+
+Check this out => https://jsfiddle.net/smax/pcjtcmdm/
+
+---
