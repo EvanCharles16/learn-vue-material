@@ -231,11 +231,13 @@ p {
 Javascript
 
 ```
-var vm1 = new Vue({
-  data : {
-		title : 'The Vue Instance',
+var data = {
+	title : 'The Vue Instance',
     showParagraph : false,
-	},
+}
+
+var vm1 = new Vue({
+  data : data,
   methods : {
 		show(){
 			this.showParagraph = true;
@@ -283,7 +285,7 @@ var vm3 = new Vue({
 	template: `<h1>Hello</h1>`,
 })
 
-vm3.$mount();
+vm3.$mount('#app3');
 document.getElementById("app3").appendChild(vm3.$el)
 ```
 
