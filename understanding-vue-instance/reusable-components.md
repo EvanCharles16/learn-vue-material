@@ -163,7 +163,7 @@ new Vue({
 	},
   destroyed(){
 		console.log("destroyed()")
-    // its good to do some cleanup work or beforeDestroy hook to be precise.
+    // its good to do some cleanup work or beforeDestroy hook to be precise. it also stop the vue instance (function not working)
   },
   methods : {
 		destroy(){
